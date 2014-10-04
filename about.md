@@ -2,18 +2,19 @@
 layout: page
 title: 关于
 header: Post About
-tagline: Xaolex
+tagline: amwytai
 ---
 {% include JB/setup %}
 
 
 ***
-Xaolex/袁效宁
+amwytai/Dony
 ***
 
 ### 如何找到我：  
-Email: xaolex@gmail  
-GitHub: https://github.com/Xaolex
+Email: amwytai@163.com
+
+GitHub: https://github.com/amwytai
 
 ***
 ### 给我留言：

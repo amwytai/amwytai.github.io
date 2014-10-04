@@ -159,13 +159,13 @@ Markdown是一门为了实现*易读易写*的标记语言，而且可以转化�
 Markdown不会对代码段的代码内容进行语法转换，而像`&`和`<`这类字符会自动转换成HTML实体。例如，
 
 	<div class="footer">
-        &copy; 2014 Xaolex
+        &copy; 2014 amwytai
     </div>
 
 会转换成：
 
 	<pre><code>&lt;div class="footer"&gt;
-	    &amp;copy; 2014 Xaolex
+	    &amp;copy; 2014 amwytai
 	&lt;/div&gt;
 	</code></pre>
 
@@ -268,15 +268,15 @@ Markdown支持自动链接形式来处理网址和Email地址，这样省了我�
 
 **语法示例**：
 
-	<http://xaolex.github.io>
+	<http://amwytai.github.io>
 	
-	<xaolex@gmail.com>
+	<amwytai@gmail.com>
 
 **显示效果**：
 
-<http://xaolex.github.io>
+<http://amwytai.github.io>
 
-<xaolex@gmail.com>
+<amwytai@gmail.com>
 
 ***
 
@@ -290,7 +290,7 @@ Markdown支持自动链接形式来处理网址和Email地址，这样省了我�
 
 	AT&T
 	
-	&copy; Xaolex 2013
+	&copy; amwytai 2013
 	
 	1 + 1 <> 1
 
@@ -298,7 +298,7 @@ Markdown支持自动链接形式来处理网址和Email地址，这样省了我�
 
 AT&T
 
-&copy; Xaolex 2013
+&copy; amwytai 2013
 
 1 + 1 <> 1
 
